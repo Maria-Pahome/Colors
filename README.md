@@ -1,0 +1,2 @@
+# Colors-randomizer
+JS exercise
