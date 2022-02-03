@@ -1,2 +1,2 @@
-# Colors-randomizer
-JS exercise
+# Dev Ed's inspired example
+# Js app
