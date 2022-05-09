@@ -1,2 +1,2 @@
-Dev Ed's inspired example of a js app
+Dev Ed's inspired example of a Javascript application
 
